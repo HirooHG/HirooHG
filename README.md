@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there :wave:
+ - :calendar: Everyday coding `mobile` :iphone: or `web` :computer: applications
+ - :fire: Currently working on a school web application project
+ - :heavy_check_mark: Learning all about compilers and containers :whale:
+ - Smile is important :smile:
 
 <!--
 **HirooHG/HirooHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
