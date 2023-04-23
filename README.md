@@ -3,7 +3,6 @@
  - 📆 Everyday coding `mobile` 📱 or `web` 💻 applications
  - 🔥 Currently working on a school web application project
  - ✔️ Learning all about compilers and containers 🐳
- - Smile is important 😄
 
 <!--
 **HirooHG/HirooHG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
