@@ -1,5 +1,4 @@
-### Hey there :wave:
- - 🎓 Dreaming to be software or mobile developer
- - 📆 Everyday coding `mobile` 📱 apps
- - 🔥 Currently in an internship
- - 🤩 Future software engineer student
+### Hello there :wave:
+ - 🎓 Dreaming to be software or Web Fullstack/Mobile developer
+ - ☁️ Devops enjoyer
+ - 🖥️ Future software engineer student
