@@ -6,9 +6,9 @@
 | Interesting | things                          |
 | ----------- | ------------------------------- |
 | OS          | MacOS (work), ArchLinux (perso) |
-| Terminal    | Alacritty                       |
+| Terminal    | Ghostty                         |
 | Shell       | zsh                             |
 | Editor      | neovim                          |
-| Browsers    | Arc, firefox                    |
+| Browsers    | safari, firefox                 |
 | Experience  | +3                              |
 | Fav Game    | Hollow knight, Outer wilds      |
